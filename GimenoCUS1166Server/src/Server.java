@@ -6,7 +6,7 @@ import javax.activation.*;
 import java.util.*;
 
 public class Server {
-		private static final String password = "CuckLORD123";
+		private static final String password = "";
 		private static final String DIVIDER = "\n-------------------------------------------\n";
 		public static void main(String[] args)
 		{
